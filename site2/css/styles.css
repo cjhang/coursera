@@ -1,0 +1,27 @@
+body {
+  font-size: 16px;
+  color: #000000;
+  /*background-color: #fff;*/
+  font-family: sans;
+  padding-top: 70px;
+}
+
+/*HEADER*/
+#nav-list a:hover {
+  background: #d7ffd7;
+}
+/*END HEADER*/
+
+#content {
+  margin: 2px 0px 2px 0px;
+  background: #b2b2b2;
+}
+/*END CONTENT*/
+
+/*MEDIAS*/
+/*Extra small devices only*/
+@media (max-width:767px){
+  /*CONTENT*/
+  #main-content #subtitle{
+    text-align:center;
+  }
