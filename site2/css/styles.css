@@ -12,10 +12,10 @@ body {
 }
 /*END HEADER*/
 
-#content {
+.section {
   margin: 2px 0px 2px 0px;
   text-align: center;
-  /*background: #b2b2b2;*/
+  background: #b2b2b2;
 }
 /*END CONTENT*/
 
