@@ -23,6 +23,6 @@ body {
 /*Extra small devices only*/
 @media (max-width:767px){
   /*CONTENT*/
-  #main-content #subtitle{
+  #main-content .subtitle{
     text-align:center;
   }
